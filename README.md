@@ -1,4 +1,4 @@
-# rocketlist-ai
+# Rocketlist
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,107 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-rocketlist-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://rocketlist.ai/
+Rocketlist is an AI‑powered job matching platform that connects candidates with startup and tech company opportunities. Founded in early 2025 in Lisbon, the service uses machine learning to rank jobs against user profiles based on skills, experience, location and preferences. It operates from Germany, offers a free tier, and emphasizes data privacy under GDPR.
+
+**Areas:** Company · AI · Job Matching · Startup · Recruiting
+
+## Rocketlist on APIs.io
+
+Everything profiled for Rocketlist is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/rocketlist-ai/](https://apis.io/providers/rocketlist-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (6)
+
+- [Rocketlist Companies API](https://apis.io/apis/rocketlist-ai/rocketlist-ai-companies-api/) — The Companies API from Rocketlist — 2 operation(s) for companies.
+- [Rocketlist Headline Stats API](https://apis.io/apis/rocketlist-ai/rocketlist-ai-headline-stats-api/) — The Headline Stats API from Rocketlist — 1 operation(s) for headline stats.
+- [Rocketlist Health API](https://apis.io/apis/rocketlist-ai/rocketlist-ai-health-api/) — The Health API from Rocketlist — 1 operation(s) for health.
+- [Rocketlist Investors API](https://apis.io/apis/rocketlist-ai/rocketlist-ai-investors-api/) — The Investors API from Rocketlist — 1 operation(s) for investors.
+- [Rocketlist Jobs API](https://apis.io/apis/rocketlist-ai/rocketlist-ai-jobs-api/) — The Jobs API from Rocketlist — 2 operation(s) for jobs.
+- [Rocketlist Public API](https://apis.io/apis/rocketlist-ai/rocketlist-ai-public-api/) — The Public API from Rocketlist — 1 operation(s) for public.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Rocketlist Agentic Access](https://apis.io/agentic-access/rocketlist-ai/rocketlist-ai-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Rocketlist API Rules](https://apis.io/rules/rocketlist-ai/rocketlist-ai-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Rocketlist Domain Security](https://apis.io/security/rocketlist-ai/rocketlist-ai-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://rocketlist.ai/)
+- [Documentation](https://rocketlist.ai/docs/mcp)
+- [API reference](https://rocketlist.ai/llms.txt)
+- [Terms of service](https://rocketlist.ai/terms)
+- [Privacy policy](https://rocketlist.ai/privacy)
+
+## API Evangelist rating
+
+**Kin Score 31.2** — thin · rubric 0.28.0 · scored 2026-11-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 42.0 |
+| Contract governance | 65.5 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 17.0 |
+
+**Agent readiness 21.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/rocketlist-ai/](https://apis.io/providers/rocketlist-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Rocketlist: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/rocketlist-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
